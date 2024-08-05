@@ -6,6 +6,5 @@
 
 This project is a starting point for a Flutter application.
 ## Image of the application
--![e11](https://github.com/user-attachments/assets/ef3ebbfb-9b41-4dcf-a599-c63156320c48)
-![e12](https://github.com/user-attachments/assets/bdea89e2-16c6-4429-9aa8-8c1ccaa8bc3f)
-![e4](https://github.com/user-attachments/assets/465eed37-6e1e-4723-98f1-af28ed33c6e9)
+![e11](https://github.com/user-attachments/assets/ef3ebbfb-9b41-4dcf-a599-c63156320c48)
+

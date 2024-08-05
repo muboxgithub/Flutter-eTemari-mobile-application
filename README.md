@@ -1,17 +1,11 @@
 # etemarilite
 
-A new Flutter project.
+- Flutter project integrating with moodle LMS
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# flutteretemarilite" 
+## Image of the application
+-![e11](https://github.com/user-attachments/assets/ef3ebbfb-9b41-4dcf-a599-c63156320c48)
+![e12](https://github.com/user-attachments/assets/bdea89e2-16c6-4429-9aa8-8c1ccaa8bc3f)
+![e4](https://github.com/user-attachments/assets/465eed37-6e1e-4723-98f1-af28ed33c6e9)
